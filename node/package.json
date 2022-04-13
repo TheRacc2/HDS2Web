@@ -1,0 +1,14 @@
+{
+  "name": "kazutree_heart",
+  "version": "1.0.0",
+  "description": "Simple HDS -> standardJS websocket stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazutree",
+  "license": "WTFPL",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
